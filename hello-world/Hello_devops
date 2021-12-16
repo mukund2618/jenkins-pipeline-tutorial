@@ -30,7 +30,7 @@ pipeline {
             steps {
                 echo 'Save the assemblies generated from the compilation' 
             }
-            stage('Publish Stage Data') {
+        stage('Publish Stage Data') {
             steps {
                 echo 'This is my Stage Platform which says hello' 
             }
