@@ -30,6 +30,10 @@ pipeline {
             steps {
                 echo 'Save the assemblies generated from the compilation' 
             }
+        stage('Stage Environment') {
+            steps {
+                echo 'Hello from stage server' 
+            }
         }
     }
 }
