@@ -6,3 +6,4 @@ This is my second attempt
 Hi
 Just a small update to check weather jenkins trigger build automatically
 Just deleted Hello_devops file and testing for jenkins build
+Hoooraaaay just fixed the script syntax.
